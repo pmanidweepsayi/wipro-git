@@ -1,2 +1,2 @@
 print('sayi')
-print('ggiyhefbhe')
+print('ggiyhef
